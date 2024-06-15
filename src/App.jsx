@@ -54,7 +54,7 @@ function App() {
                 className="input-slider w-3/4 h-5"
                 type="range"
                 step="1"
-                min="140"
+                min="40"
                 max="200"
               />
             </center>
